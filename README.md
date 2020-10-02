@@ -1,3 +1,8 @@
-# support-wheel-of-fate
-___
-![test](pics/Screenshot_1.png)
+# Support Wheel Of Fate
+
+
+### Client side
+
+
+Window Preview
+![previewc](pics/ezpreview.gif)
